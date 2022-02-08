@@ -11,8 +11,5 @@ pet = input("What's your pet's name?\n")
 print('Your band name could be ' + city + ' ' + pet)
 ```
 
-## Link to repl.it
-
 ![](band_name.gif)
 
-https://replit.com/@AnastasiaLunina/1-Band-name-generator#main.py

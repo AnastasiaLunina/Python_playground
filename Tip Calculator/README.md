@@ -14,8 +14,6 @@ outcome = round(((total_bill) + (total_bill * (percentage/100)))/total_people, 2
 print(f"Each person should pay ${outcome}")
 ```
 
-## Link to repl.it
 
 ![](tip_calculator.gif)
 
-https://replit.com/@AnastasiaLunina/2-Tip-Calculator#main.py
