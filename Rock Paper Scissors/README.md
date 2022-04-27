@@ -72,4 +72,3 @@ else:
 
 ![](rock_paper_scissors.gif)
 
-https://replit.com/@AnastasiaLunina/4-rockpaperscissors#main.py
