@@ -4,7 +4,7 @@ import random
 import smtplib
 
 my_email = "lunina.anastasiya@gmail.com"
-password = "xbgyeefmpayanwse"
+password = "xbgyeepayanws"
 
 # Checking if today matches a birthday in the birthdays.csv
 
